@@ -6,6 +6,7 @@ const Home = () => {
 	return (
 		<div className="container mt-5">
 			<h1 className="text-center">{t("home")}</h1>
+			<h2>Hello World</h2>
 		</div>
 	);
 };
