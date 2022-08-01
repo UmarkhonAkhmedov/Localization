@@ -6,7 +6,7 @@ const Profile = () => {
 	return (
 		<div className="container mt-5 col-9 col-md-6">
 			<h1 className="text-center">{t("common:profile")}</h1>
-
+			<h2>Hello World</h2>
 			<div className="form-group">
 				<label htmlFor="">{t("profile:name")}:</label>
 				<input
